@@ -4,9 +4,9 @@
 
 18373105 童涛
 
-18373528 杨凌华
+18373528 杨凌华 https://github.com/LarryHawkingYoung/deep_learning_final_assignment
 
-18373542 胥浩宇
+18373542 胥浩宇 https://github.com/cpxhylty/deep_learning_final_assignment
 
 18373676 黎昊轩
 
